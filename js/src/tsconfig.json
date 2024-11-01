@@ -1,0 +1,16 @@
+{
+	"compilerOptions": 
+	{
+		"allowJs": false,
+		"target": "es5",
+		"sourceMap": true,
+		"strictNullChecks": true
+	},
+	"files": 
+	[
+		"youneeq_lib.ts",
+		"youneeq_search.ts",
+		"date_fix.ts",
+		"youneeq_scroll.ts"
+	]
+}
